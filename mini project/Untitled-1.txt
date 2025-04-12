@@ -1,0 +1,3 @@
+<!-- Create a responsive navbar with a logo and links -->
+/* Style the homepage with a modern, clean layout */
+// Add JavaScript for dark mode toggle
